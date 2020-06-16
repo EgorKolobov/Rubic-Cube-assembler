@@ -1,5 +1,4 @@
 # Rubic-Cube-assembler
-Makes random Rubic's cube configuration and assembles it. Can save and load configuration from the txt file. 
 lab8.cpp - the main cpp file. Starts the menu.
 rubic.h - the header file of the "cube" and "side" classes. All the terminal colours are here.
 rubic.cpp - realization of "cube" and "side" methods.
